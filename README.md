@@ -6,10 +6,14 @@ End-to-end two‐stage pipeline that retrieves relevant passages and extracts pr
 
 ## 🧪 Experimental Setup
 
-- **Python**: 3.x  
-- **PyTorch**: ≥2.0 (with CUDA support if available)  
-- **GPU**: NVIDIA T4 (CPU fallback supported)  
-- **Dependencies**: see `requirements.txt`
+- Python version: 3.9.9
+- PyTorch version: 2.3.1+cu121
+- CUDA available: True
+- CUDA version: 12.1
+- GPU model: Tesla T4
+- Number of GPUs: 2
+- Available GPU memory: 15.64 GB
+- Using device: cuda
 
 ---
 
