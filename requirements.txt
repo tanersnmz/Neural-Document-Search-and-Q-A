@@ -1,9 +1,9 @@
 torch
 transformers
-streamlit
+datasets
+evaluate
+tqdm
 scikit-learn
 pandas
-numpy
-datasets
-tqdm
 nltk
+numpy
