@@ -17,7 +17,7 @@ End-to-end two‐stage pipeline that retrieves relevant passages and extracts pr
 
 1. **Retriever**: DistilBERT bi-encoder trained on MS MARCO v2.1 + SQuAD + HotpotQA pairs to embed queries and passages and return top-K documents.  
 2. **Reader**: DistilBERT span-prediction head fine-tuned on SQuAD v1.1 to extract exact answer spans from the retrieved passages.  
-3. **Demo**: A Streamlit app for live querying and visualization of top-5 supporting passages.
+3. **Demo**: A Gradio app for live querying and visualization of top-5 supporting passages.
 
 ---
 
