@@ -1,4 +1,4 @@
-# -Neural-Document-Search-and-Q-A
+# Neural-Document-Search-and-Q-A
 # Retriever-Reader QA System
 
 This repository implements a retriever-reader pipeline for open-domain question answering. It includes a bi-encoder retriever and a transformer-based reader.
