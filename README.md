@@ -84,7 +84,7 @@ For details, check the final report.
 
 
 ## Notes
-- All trained retriever and reader model files can be downloaded from this link (it requires Columbia Email): https://drive.google.com/drive/folders/1W7k1mfacTO3114hez1BsbBRAXyZoOk2r?usp=sharing
+- All trained retriever and reader model files can be downloaded from this link, for DEMO download the files in the link and refer the quick demo instructions above (it requires Columbia Email): https://drive.google.com/drive/folders/1W7k1mfacTO3114hez1BsbBRAXyZoOk2r?usp=sharing
 - Use a GPU (e.g., `cuda:0`) for embedding and inference.
 - Ensure that retrieved passages align correctly with the reader input.
 
