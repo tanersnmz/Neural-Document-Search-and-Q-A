@@ -69,7 +69,7 @@ pip install -r requirements.txt
 python app.py
 
 This opens app in your local machine with specific url.  
-Type a question (e.g.\ “What causes rainbows to form?”) and press \textsc{Submit};
+Type a question (e.g. “What causes rainbows to form?”) and press Submit;
 the app shows the extracted answer and the top-5 supporting passages.
 
 ## Results
