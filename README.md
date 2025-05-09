@@ -11,7 +11,7 @@ End-to-end two‐stage pipeline that retrieves relevant passages and extracts pr
 - CUDA available: True
 - CUDA version: 12.1
 - GPU model: Tesla T4
-- Number of GPUs: 2
+- Number of GPUs: 1
 - Available GPU memory: 15.64 GB
 - Using device: cuda
 
