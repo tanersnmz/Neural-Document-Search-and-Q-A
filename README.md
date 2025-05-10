@@ -41,11 +41,12 @@ End-to-end two‐stage pipeline that retrieves relevant passages and extracts pr
 │
 ├── cleaned_query_passage_pairs.parquet     # in drive, see below link
 ├── passage_embeds.npy                      # precomputed passage embeddings, in drive, see below link
-│
+├── AML_Final_Report.pdf                    # Our final report
 ├── app.py                          # live demo interface
 ├── requirements.txt                # Python dependencies
 └── README.md
 ```
+
 
 ## Setup
 
