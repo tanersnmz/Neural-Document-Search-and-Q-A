@@ -37,6 +37,7 @@ End-to-end two‐stage pipeline that retrieves relevant passages and extracts pr
 │
 ├── model2/                         # retriever model files (in drive, see below link)
 ├── final_qa_model/                 # reader model files (in drive, see below link)
+├── model_repository/               # contains NVDIA Triton deployment files
 │
 ├── cleaned_query_passage_pairs.parquet # in drive, see below link
 ├── passage_embeds.npy              # precomputed passage embeddings, in drive, see below link
